@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-import rainbow from './rainbow.png';
 import rainbowLogo from './rainbowLogo.jpg';
 import './App.scss';
 
