@@ -7,7 +7,7 @@ function App() {
 			<img src={process.env.PUBLIC_URL + '/RainbowLaptop.png'}
 				className="App-logo"
 				alt="logo" />
-			<h1>COMING SOON</h1>
+			<h1 className='coming-soon'>COMING SOON</h1>
 		</header>
 	</div>
 	);
